@@ -114,5 +114,4 @@ When creating pull requests:
 1. If the pull request consists of one commit only, use the body of the commit for the body of the pull request.
 2. If there are multiple commits in the pull request, follow the same guidelines for the pull request as for the commit body.
 3. Make sure that the base commit of the pull request is recent (within the past two days) - if not rebase your changes first.
-
 ronit
